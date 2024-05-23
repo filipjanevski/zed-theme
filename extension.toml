@@ -1,0 +1,7 @@
+id = "0x96f"
+name = "0x96f Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Filip Janevski <filip@janevski.dev>"]
+description = "0x96f theme for Zed"
+repository = "https://github.com/filipjanevski/zed-theme"
