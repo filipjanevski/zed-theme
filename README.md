@@ -1,6 +1,6 @@
-# 0x96f theme for the Zed editor
+# 0x96f theme for Zed
 
-0x96f theme for the [Zed](https://zed.dev).
+A simple and pleasant dark theme for [Zed](https://zed.dev).
 
 ## Screenshots
 
