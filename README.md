@@ -1,12 +1,12 @@
 # 0x96f theme for Zed
 
-![intro](logo.png)
+![Logo](logo.png)
 
 A simple and pleasant dark theme for [Zed](https://zed.dev).
 
 ## Screenshots
 
-![intro](screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Manual install
 
