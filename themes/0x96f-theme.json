@@ -136,7 +136,7 @@
         "unreachable.background": "#262427",
         "unreachable.border": "#4C4C4C",
         "warning": "#FC9867",
-        "warning.background": "#545452",
+        "warning.background": "#262427",
         "warning.border": "#FC9867",
         "players": [
           {
