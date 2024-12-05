@@ -49,6 +49,8 @@
         "panel.focused_border": "#101010",
         "pane.focused_border": "#101010",
         "pane_group.border": "#101010",
+        "panel.indent_guide": "#404040",
+        "panel.indent_guide_active": "#707070",
         "scrollbar.thumb.background": "#C1D9FF15",
         "scrollbar.thumb.hover_background": "#C1D9FF30",
         "scrollbar.thumb.border": "#C1D9FF15",
