@@ -67,6 +67,7 @@
         "editor.invisible": "#8B8B8B",
         "editor.wrap_guide": "#262427",
         "editor.active_wrap_guide": "#262427",
+        "editor.document_highlight.bracket_background": "#656565",
         "editor.document_highlight.read_background": null,
         "editor.document_highlight.write_background": null,
         "editor.indent_guide": "#404040",
