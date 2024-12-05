@@ -1,5 +1,5 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "0x96f-zed-theme",
   "author": "Filip Janevski <filip@janevski.dev>",
   "themes": [
@@ -69,6 +69,8 @@
         "editor.active_wrap_guide": "#262427",
         "editor.document_highlight.read_background": null,
         "editor.document_highlight.write_background": null,
+        "editor.indent_guide": "#404040",
+        "editor.indent_guide_active": "#707070",
         "terminal.background": "#262427",
         "terminal.foreground": "#FCFCFC",
         "terminal.bright_foreground": "#FFFFFF",
