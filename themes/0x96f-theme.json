@@ -33,6 +33,7 @@
         "text.placeholder": "#A6A6A5",
         "text.disabled": "#8B8B8B",
         "text.accent": "#49CAE4",
+        "search.match_background": "#C0B5C040",
         "icon": "#FCFCFC",
         "icon.muted": "#A6A6A5",
         "icon.disabled": "#8B8B8B",
@@ -44,7 +45,6 @@
         "tab_bar.background": "#1C1B1C",
         "tab.inactive_background": "#1C1B1C",
         "tab.active_background": "#252425",
-        "search.match_background": "#686068",
         "panel.background": "#1C1B1C",
         "panel.focused_border": "#909090",
         "panel.indent_guide": "#373737",
@@ -148,7 +148,7 @@
           {
             "cursor": "#FFBD3E",
             "background": "#2C2A2E",
-            "selection": "#504550"
+            "selection": "#C0B5C040"
           }
         ],
         "syntax": {
