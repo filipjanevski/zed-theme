@@ -168,9 +168,9 @@
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#777777",
+            "color": "#757075",
             "font_style": null,
-            "font_weight": 800
+            "font_weight": null
           },
           "constant": {
             "color": "#FC9D6F",
@@ -299,6 +299,51 @@
           },
           "variable.special": {
             "color": "#AEE8F4",
+            "font_style": null,
+            "font_weight": null
+          },
+          "embedded": {
+            "color": "#FCFCFC",
+            "font_style": null,
+            "font_weight": null
+          },
+          "enum": {
+            "color": "#AEE8F4",
+            "font_style": null,
+            "font_weight": null
+          },
+          "hint": {
+            "color": "#89DEEF",
+            "font_style": null,
+            "font_weight": null
+          },
+          "label": {
+            "color": "#C6E472",
+            "font_style": null,
+            "font_weight": 800
+          },
+          "predictive": {
+            "color": "#757075",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "preproc": {
+            "color": "#FCFCFC",
+            "font_style": null,
+            "font_weight": null
+          },
+          "primary": {
+            "color": "#FCFCFC",
+            "font_style": null,
+            "font_weight": null
+          },
+          "title": {
+            "color": "#FFD271",
+            "font_style": "italic",
+            "font_weight": 800
+          },
+          "variant": {
+            "color": "#49CAE4",
             "font_style": null,
             "font_weight": null
           }
